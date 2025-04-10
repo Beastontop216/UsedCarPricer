@@ -1,1 +1,1 @@
-# UsedCarPricer
+This project is a machine learning-based solution designed to estimate the selling price of used cars using key vehicle attributes such as brand, model, year of manufacture, fuel type, transmission, and mileage. Leveraging a dataset sourced from CarDekho, the model provides a fast and reliable price estimation tool that could assist buyers and sellers in making informed decisions# UsedCarPricer
